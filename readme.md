@@ -1,4 +1,4 @@
-# Diagram Building System (Phase 1 using Builder and Prototype pattern)
+# Diagram Building System (Phase 1 using Builder, Factory, Singleton, and Prototype patterns)
 
 This repository contains a **diagram building system** that demonstrates the use of multiple **object-oriented design patterns** to create, render, and clone diagram elements.
 
